@@ -10,6 +10,7 @@ __pycache__/
 .Python
 .idea/
 README.md
+test.py
 build/
 develop-eggs/
 dist/
